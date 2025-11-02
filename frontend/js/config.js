@@ -1,4 +1,4 @@
-export const API_BASE_URL = 'https://travaiobackend.vercel.app/';
+export const API_BASE_URL = 'http://localhost:5000';
 <script>
-  window.API_BASE_URL = 'https://travaiobackend.vercel.app/';
+  window.API_BASE_URL = 'http://localhost:5000';
 </script>
