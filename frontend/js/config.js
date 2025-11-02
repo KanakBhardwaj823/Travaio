@@ -1,4 +1,4 @@
-export const API_BASE_URL = 'https://travaio-puhl.onrender.com';
+export const API_BASE_URL = 'https://github.com/coderovers04/Travaio';
 <script>
-  window.API_BASE_URL = 'https://travaio-puhl.onrender.com';
+  window.API_BASE_URL = 'https://github.com/coderovers04/Travaio';
 </script>
